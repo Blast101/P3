@@ -22,7 +22,8 @@
     order: 2;
     justify-content: space-evenly;
     align-items: center;
-
+    position:fixed;
+    bottom:20px;
 }
 
 .b{
