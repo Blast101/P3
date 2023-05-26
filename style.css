@@ -15,10 +15,9 @@
 
 /* Buttons ////////////////////////////////////////////////////////////////////*/
 .btn{
-    height: 10vh;
+    height: 20vh;
     border: 2px solid rgb(15, 14, 14);
     margin-top:2px;
-    margin-bottom:50px;
     display: flex;
     order: 2;
     justify-content: space-evenly;
@@ -37,7 +36,7 @@
 /* Tabs ////////////////////////////////////////////////////////////////////////*/
 .tab
 {
-    height: 80vh;
+    height: 75vh;
     border: 2px solid rgb(15, 14, 14);
     margin: 2px 2px;
     display: flex;
