@@ -58,6 +58,7 @@
     display: flex;
     flex-wrap: wrap;
     overflow-y: scroll;
+    overflow:hidden;
     justify-content:space-evenly ;
 
 
