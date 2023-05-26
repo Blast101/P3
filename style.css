@@ -15,7 +15,7 @@
 
 /* Buttons ////////////////////////////////////////////////////////////////////*/
 .btn{
-    height: 20vh;
+    height: 10vh;
     border: 2px solid rgb(15, 14, 14);
     margin-top:2px;
     display: flex;
@@ -37,7 +37,7 @@
 /* Tabs ////////////////////////////////////////////////////////////////////////*/
 .tab
 {
-    height: 75vh;
+    height: 90vh;
     border: 2px solid rgb(15, 14, 14);
     margin: 2px 2px;
     display: flex;
